@@ -1,0 +1,66 @@
+{
+        "title": "Categories",
+        "type": "COLLECTION",
+        "sliceItems": [
+            {
+                "title":"Audio Described",
+                "url":"audio-described",
+                "icon":"audiodesc"
+            },
+            {
+                "title":"Comedy",
+                "url":"comedy",
+                "icon":"smile"
+            },
+            {
+                "title":"Documentaries",
+                "url":"documentaries",
+                "icon":"camera"
+            },
+            {
+                "title":"Drama",
+                "url":"drama",
+                "icon":"masks"
+            },
+            {
+                "title":"Entertainment",
+                "url":"entertainment",
+                "icon":"devil"
+            },
+            {
+                "title":"Film",
+                "url":"film",
+                "icon":"popcorn"
+            },
+            {
+                "title":"Lifestyle",
+                "url":"lifestyle",
+                "icon":"house"
+            },
+            {
+                "title":"News & Current Affairs",
+                "url":"news-current-affairs-and-politics",
+                "icon":"art"
+            },
+            {
+                "title":"Signed",
+                "url":"signed",
+                "icon":"bsl"
+            },
+            {
+                "title":"Sport",
+                "url":"sport",
+                "icon":"boomerang"
+            },
+            {
+                "title":"World Drama",
+                "url":"world-drama",
+                "icon":"masks"
+            },
+            {
+                "title":"Box Sets",
+                "url":"boxsets",
+                "icon":"egg"
+            }
+        ]
+    }

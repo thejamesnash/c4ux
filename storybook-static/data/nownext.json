@@ -1,0 +1,459 @@
+{
+    "slots": {
+        "now": [
+            {
+                "title": "Frasier",
+                "summary": "Guess Who's Coming to Breakfast: Frasier upsets Martin when he reveals personal details about his love life during a radio broadcast. (S1 Ep13)",
+                "channel": "C4",
+                "start": "2025-11-19T09:10:00.000Z",
+                "end": "2025-11-19T09:40:00.000Z",
+                "duration": 1800,
+                "offair": false,
+                "available": true,
+                "hasGuidance": false,
+                "isSubtitled": true,
+                "isAudioDescribed": true,
+                "isSigned": true,
+                "streamUri": "https://ais.channel4.com/simulcast/C4?client=c4",
+                "startAgainRights": true,
+                "image": {
+                    "href": "https://ic.c4assets.com/brands/frasier/series-1/episode-13/ee8d77fb-17f4-4869-9aec-29e7b763906e.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+                },
+                "programmeId": "18926-013",
+                "episode": {
+                    "title": "Series 1 Episode 13",
+                    "secondaryTitle": "Guess Who's Coming to Breakfast",
+                    "seriesNumber": 1,
+                    "episodeNumber": 13,
+                    "programmeId": "18926-013",
+                    "shortSummary": "Frasier upsets Martin when he reveals details of his love life on air",
+                    "summary": "Frasier upsets Martin when he reveals details of his love life on air"
+                },
+                "brand": {
+                    "title": "Frasier",
+                    "programmeType": "MST",
+                    "websafeTitle": "frasier"
+                }
+            },
+            {
+                "title": "The Simpsons",
+                "summary": "To Cur with Love: Homer loses Santa's Little Helper but doesn't seem to care.",
+                "channel": "E4",
+                "start": "2025-11-19T09:00:00.000Z",
+                "end": "2025-11-19T09:30:00.000Z",
+                "duration": 1800,
+                "offair": false,
+                "available": true,
+                "hasGuidance": false,
+                "isSubtitled": true,
+                "isAudioDescribed": true,
+                "isSigned": true,
+                "streamUri": "https://ais.channel4.com/simulcast/E4?client=c4",
+                "startAgainRights": true,
+                "image": {
+                    "href": "https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&output-format=png&output-quality=90{&resize}"
+                },
+                "programmeId": "64408-008"
+            },
+            {
+                "title": "Chateau DIY",
+                "summary": "Janet and Philip's new turret spire is ready to be installed. Julia's pool project nears completion following long delays. Billie plans a wedding anniversary surprise for Ben. (S1 Ep30)",
+                "channel": "M4",
+                "start": "2025-11-19T08:55:00.000Z",
+                "end": "2025-11-19T10:00:00.000Z",
+                "duration": 3900,
+                "offair": false,
+                "available": true,
+                "hasGuidance": false,
+                "isSubtitled": true,
+                "isAudioDescribed": true,
+                "isSigned": true,
+                "streamUri": "https://ais.channel4.com/simulcast/M4?client=c4",
+                "startAgainRights": true,
+                "image": {
+                    "href": "https://ic.c4assets.com/brands/chateau-diy/series-2/episode-15/2238bd83-7181-4b73-b560-61d6e72c82e6.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+                },
+                "programmeId": "71684-015",
+                "episode": {
+                    "title": "Series 1 Episode 30",
+                    "secondaryTitle": "",
+                    "seriesNumber": 2,
+                    "episodeNumber": 15,
+                    "programmeId": "71684-015",
+                    "shortSummary": "Julia's pool project nears completion. Ben and Billie celebrate their wedding anniversary.",
+                    "summary": "Janet and Philip's new turret spire is ready to be installed. Julia's pool project nears completion following long delays. Ben and Billie celebrate their 20th wedding anniversary."
+                },
+                "brand": {
+                    "title": "Chateau DIY",
+                    "programmeType": "FB",
+                    "websafeTitle": "chateau-diy"
+                }
+            },
+            {
+                "title": "Off Air",
+                "summary": "",
+                "channel": "F4",
+                "start": "2025-11-19T03:35:00.000Z",
+                "end": "2025-11-19T11:00:00.000Z",
+                "duration": 26700,
+                "offair": true,
+                "available": false,
+                "hasGuidance": false,
+                "isSubtitled": true,
+                "isAudioDescribed": true,
+                "isSigned": true,
+                "streamUri": "https://ais.channel4.com/simulcast/F4?client=c4",
+                "startAgainRights": false,
+                "image": {
+                    "href": "https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&output-format=png&output-quality=90{&resize}"
+                },
+                "programmeId": ""
+            },
+            {
+                "title": "American Pickers",
+                "summary": "Big Boy Toys: Mike's like a kid in a toy store when he spots a retro boat and a BMW micro car that could be worth some serious coin. And the deals heat up at a rad radiator shop. (S12 Ep3)",
+                "channel": "4S",
+                "start": "2025-11-19T09:00:00.000Z",
+                "end": "2025-11-19T10:00:00.000Z",
+                "duration": 3600,
+                "offair": false,
+                "available": true,
+                "hasGuidance": false,
+                "isSubtitled": true,
+                "isAudioDescribed": true,
+                "isSigned": true,
+                "streamUri": "https://ais.channel4.com/simulcast/4S?client=c4",
+                "startAgainRights": true,
+                "image": {
+                    "href": "https://ic.c4assets.com/vps/american-pickers-yr-12---big-boy-toys/F5F17795-A9D9-4CF7-BB519E98287F104B.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+                },
+                "programmeId": "78130-003",
+                "episode": {
+                    "title": "Series 12 Episode 3",
+                    "secondaryTitle": "Big Boy Toys",
+                    "seriesNumber": 12,
+                    "episodeNumber": 3,
+                    "programmeId": "78130-003",
+                    "shortSummary": "Mike's like a kid in a toy store when he spots a must-have retro boat and a BMW micro car",
+                    "summary": "In California, Mike's like a kid in a toy store when he spots a retro boat and a BMW micro car that could be worth some serious coin. And the deals heat up when the guys return to a rad radiator shop."
+                },
+                "brand": {
+                    "title": "American Pickers",
+                    "programmeType": "MST",
+                    "websafeTitle": "american-pickers"
+                }
+            }
+        ],
+        "next": [
+            {
+                "title": "Frasier",
+                "summary": "Can't Buy Me Love: Frasier agrees to be a 'biddable date' at a celebrity charity auction and is thrilled when a beautiful model outbids the rest of the room. (S1 Ep14)",
+                "channel": "C4",
+                "start": "2025-11-19T09:40:00.000Z",
+                "end": "2025-11-19T10:10:00.000Z",
+                "duration": 1800,
+                "offair": false,
+                "available": true,
+                "hasGuidance": false,
+                "isSubtitled": true,
+                "isAudioDescribed": true,
+                "isSigned": true,
+                "streamUri": "https://ais.channel4.com/simulcast/C4?client=c4",
+                "startAgainRights": true,
+                "image": {
+                    "href": "https://ic.c4assets.com/brands/frasier/series-1/episode-14/7a8d2a0e-aa22-4c2d-82fe-1d22afafaf8c.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+                },
+                "programmeId": "18926-014",
+                "episode": {
+                    "title": "Series 1 Episode 14",
+                    "secondaryTitle": "Can't Buy Me Love",
+                    "seriesNumber": 1,
+                    "episodeNumber": 14,
+                    "programmeId": "18926-014",
+                    "shortSummary": "Frasier agrees to be a 'prize' at a charity auction and is thrilled a beautiful woman wins",
+                    "summary": "Frasier agrees to be a 'biddable date' at a celebrity charity auction and is thrilled when a beautiful model outbids the rest of the room for him"
+                },
+                "brand": {
+                    "title": "Frasier",
+                    "programmeType": "MST",
+                    "websafeTitle": "frasier"
+                }
+            },
+            {
+                "title": "The Simpsons",
+                "summary": "Homer Goes to Prep School: Homer joins an off-the-grid survivalist group who have a top-secret doomsday bunker. (S24 Ep9/22)",
+                "channel": "E4",
+                "start": "2025-11-19T09:30:00.000Z",
+                "end": "2025-11-19T10:00:00.000Z",
+                "duration": 1800,
+                "offair": false,
+                "available": true,
+                "hasGuidance": false,
+                "isSubtitled": true,
+                "isAudioDescribed": true,
+                "isSigned": true,
+                "streamUri": "https://ais.channel4.com/simulcast/E4?client=c4",
+                "startAgainRights": true,
+                "image": {
+                    "href": "https://ic.c4assets.com/defaultImage_all4.png?interpolation=progressive-bicubic&output-format=png&output-quality=90{&resize}"
+                },
+                "programmeId": "64408-009"
+            },
+            {
+                "title": "Chateau DIY",
+                "summary": "As their two-year gîte project draws to a close, Tim struggles to see Rebecca's vision. Tim and Krys battle with missing instructions. Philip works with volunteers on his suite. (S2 Ep1)",
+                "channel": "M4",
+                "start": "2025-11-19T10:00:00.000Z",
+                "end": "2025-11-19T11:00:00.000Z",
+                "duration": 3600,
+                "offair": false,
+                "available": true,
+                "hasGuidance": false,
+                "isSubtitled": true,
+                "isAudioDescribed": true,
+                "isSigned": true,
+                "streamUri": "https://ais.channel4.com/simulcast/M4?client=c4",
+                "startAgainRights": true,
+                "image": {
+                    "href": "https://ic.c4assets.com/brands/chateau-diy/series-2/episode-16/c58f186c-9cf5-41d9-9c4e-0117439f96e2.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+                },
+                "programmeId": "71684-016",
+                "episode": {
+                    "title": "Series 2 Episode 1",
+                    "secondaryTitle": "",
+                    "seriesNumber": 2,
+                    "episodeNumber": 20,
+                    "programmeId": "71684-016",
+                    "shortSummary": "As their two-year gîte project draws to a close, Tim struggles to see Rebecca's vision",
+                    "summary": "As their two-year gîte project draws to a close, Tim struggles to see Rebecca's vision. Tim and Krys battle with missing instructions. Philip works with French volunteers on his suite."
+                },
+                "brand": {
+                    "title": "Chateau DIY",
+                    "programmeType": "FB",
+                    "websafeTitle": "chateau-diy"
+                }
+            },
+            {
+                "title": "Two Way Stretch",
+                "summary": "(1960) Comedy. Peter Sellers, Bernard Cribbins and David Lodge star as criminals happily incarcerated in a prison run like a home-from-home for old lags and rascals by a liberal governor.",
+                "channel": "F4",
+                "start": "2025-11-19T11:00:00.000Z",
+                "end": "2025-11-19T12:45:00.000Z",
+                "duration": 6300,
+                "offair": false,
+                "available": true,
+                "hasGuidance": false,
+                "isSubtitled": true,
+                "isAudioDescribed": true,
+                "isSigned": true,
+                "streamUri": "https://ais.channel4.com/simulcast/F4?client=c4",
+                "startAgainRights": true,
+                "image": {
+                    "href": "https://ic.c4assets.com/vps/two-way-stretch/7afb71cb-6e07-47cb-940a-0b7990d0330a.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+                },
+                "programmeId": "4826-001",
+                "episode": {
+                    "title": "",
+                    "secondaryTitle": "",
+                    "seriesNumber": 1,
+                    "episodeNumber": 1,
+                    "programmeId": "4826-001",
+                    "shortSummary": "(1960) Comedy with Peter Sellers. Old lags live the life of Riley in an easy-going jail.",
+                    "summary": "(1960) Comedy. Peter Sellers, Bernard Cribbins and David Lodge star as criminals happily incarcerated in a prison run like a home-from-home for old lags and rascals by a liberal governor."
+                },
+                "brand": {
+                    "title": "Two Way Stretch",
+                    "programmeType": "FM",
+                    "websafeTitle": "two-way-stretch"
+                }
+            },
+            {
+                "title": "A Place in the Sun: Home or Away",
+                "summary": "Animal lovers Andrea and Stephen are looking for a bolthole in Bristol, as well as a main home in Estepona in Spain, that their children, grandchildren, four dogs and two cats can enjoy.",
+                "channel": "4S",
+                "start": "2025-11-19T10:00:00.000Z",
+                "end": "2025-11-19T11:00:00.000Z",
+                "duration": 3600,
+                "offair": false,
+                "available": true,
+                "hasGuidance": false,
+                "isSubtitled": true,
+                "isAudioDescribed": true,
+                "isSigned": true,
+                "streamUri": "https://ais.channel4.com/simulcast/4S?client=c4",
+                "startAgainRights": true,
+                "image": {
+                    "href": "https://ic.c4assets.com/vps/a-place-in-the-sun/d9d25834-0e11-4b4b-ae04-19bbeb1e6dbd.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+                },
+                "programmeId": "66523-008",
+                "episode": {
+                    "title": "Wed 12 Sep 2018: Bristol and Estepona",
+                    "secondaryTitle": "",
+                    "seriesNumber": 13,
+                    "episodeNumber": 8,
+                    "programmeId": "66523-008",
+                    "shortSummary": "Andrea and Stephen are after a bolthole in Bristol and a main home in Estepona, Spain",
+                    "summary": "Andrea and Stephen want to start the next phase of their life with two new homes - a bolthole in Bristol for Stephen to work from when in the UK and a main home in Estepona, Spain"
+                },
+                "brand": {
+                    "title": "A Place in the Sun",
+                    "programmeType": "FB",
+                    "websafeTitle": "a-place-in-the-sun"
+                }
+            }
+        ],
+        "later": [
+            {
+                "title": "Frasier",
+                "summary": "You Can't Tell a Crook by His Cover: Frasier claims that he can always recognise a criminal, until he and Daphne are fooled by a convincing ex-con. (S1 Ep15)",
+                "channel": "C4",
+                "start": "2025-11-19T10:10:00.000Z",
+                "end": "2025-11-19T10:40:00.000Z",
+                "duration": 1800,
+                "offair": false,
+                "available": true,
+                "streamUri": "https://ais.channel4.com/simulcast/C4?client=c4",
+                "startAgainRights": true,
+                "image": {
+                    "href": "https://ic.c4assets.com/brands/frasier/series-1/episode-15/ecf5fa87-0650-433e-a9ae-10e432a5a685.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+                },
+                "programmeId": "18926-015",
+                "episode": {
+                    "title": "Series 1 Episode 15",
+                    "secondaryTitle": "You Can't Tell a Crook by His Cover",
+                    "seriesNumber": 1,
+                    "episodeNumber": 15,
+                    "programmeId": "18926-015",
+                    "shortSummary": "Frasier claims he can always recognise a criminal - until he's fooled by an ex-con",
+                    "summary": "Frasier claims he can always recognise a criminal - until he and Daphne are fooled by a convincing ex-con"
+                },
+                "brand": {
+                    "title": "Frasier",
+                    "programmeType": "MST",
+                    "websafeTitle": "frasier"
+                }
+            },
+            {
+                "title": "The Big Bang Theory",
+                "summary": "The Empathy Optimization: The gang plan a Sheldon-free weekend in Las Vegas after coping with his constant demands, rudeness and ingratitude when he was ill. (S9 Ep13)",
+                "channel": "E4",
+                "start": "2025-11-19T10:00:00.000Z",
+                "end": "2025-11-19T10:30:00.000Z",
+                "duration": 1800,
+                "offair": false,
+                "available": true,
+                "streamUri": "https://ais.channel4.com/simulcast/E4?client=c4",
+                "startAgainRights": true,
+                "image": {
+                    "href": "https://ic.c4assets.com/brands/the-big-bang-theory/series-9/episode-13/8ce79c48-70a8-4773-b724-ca7b8a7b33c7.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+                },
+                "programmeId": "59421-013",
+                "episode": {
+                    "title": "Series 9 Episode 13",
+                    "secondaryTitle": "The Empathy Optimization",
+                    "seriesNumber": 9,
+                    "episodeNumber": 13,
+                    "programmeId": "59421-013",
+                    "shortSummary": "The gang decide to treat themselves to a Sheldon-free weekend in Las Vegas",
+                    "summary": "The gang do their best to look after Sheldon when he's ill, but after dealing with his incessant demands, rudeness and lack of gratitude, they decide to indulge in a Sheldon-free weekend in Las Vegas"
+                },
+                "brand": {
+                    "title": "The Big Bang Theory",
+                    "programmeType": "MST",
+                    "websafeTitle": "the-big-bang-theory"
+                }
+            },
+            {
+                "title": "The Great House Giveaway",
+                "summary": "In Liverpool, Michael and Alex renovate a damp house that needs major structural changes. Can they finish on time, and will they make a profit? (S4 Ep16)",
+                "channel": "M4",
+                "start": "2025-11-19T11:00:00.000Z",
+                "end": "2025-11-19T12:00:00.000Z",
+                "duration": 3600,
+                "offair": false,
+                "available": true,
+                "streamUri": "https://ais.channel4.com/simulcast/M4?client=c4",
+                "startAgainRights": true,
+                "image": {
+                    "href": "https://ic.c4assets.com/brands/the-great-house-giveaway/series-2/episode-27/e3991606-5711-4c9c-967b-ebf5ecb0c6f6.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+                },
+                "programmeId": "72201-027",
+                "episode": {
+                    "title": "Series 4 Episode 16: Liverpool",
+                    "secondaryTitle": "",
+                    "seriesNumber": 4,
+                    "episodeNumber": 27,
+                    "programmeId": "72201-027",
+                    "shortSummary": "Michael and Alex take on a damp, tired house with a giant hole in the living room floor",
+                    "summary": "In Liverpool, Michael and Alex take on a damp, tired house. It's got a giant hole in the living room floor, and it needs major structural changes. Can they finish on time, and will they make a profit?"
+                },
+                "brand": {
+                    "title": "The Great House Giveaway",
+                    "programmeType": "FB",
+                    "websafeTitle": "the-great-house-giveaway"
+                }
+            },
+            {
+                "title": "A Kid for Two Farthings",
+                "summary": "(1955) Carol Reed's charming film stars Jonathan Ashmore as a young, impressionable boy who mistakes a one-horned goat for a unicorn in London's colourful Petticoat Lane market.",
+                "channel": "F4",
+                "start": "2025-11-19T12:45:00.000Z",
+                "end": "2025-11-19T14:35:00.000Z",
+                "duration": 6600,
+                "offair": false,
+                "available": true,
+                "streamUri": "https://ais.channel4.com/simulcast/F4?client=c4",
+                "startAgainRights": true,
+                "image": {
+                    "href": "https://ic.c4assets.com/vps/a-kid-for-two-farthings/35afea29-7bfe-4bcd-b8fc-2e87886d3647.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+                },
+                "programmeId": "8902-001",
+                "episode": {
+                    "title": "",
+                    "secondaryTitle": "",
+                    "seriesNumber": 1,
+                    "episodeNumber": 1,
+                    "programmeId": "8902-001",
+                    "shortSummary": "(1955) Charming comedy drama. A young boy buys a unicorn... Or is it a one-horned goat?",
+                    "summary": "(1955) Carol Reed's charming comedy drama starring Jonathan Ashmore. A young, impressionable boy mistakes a one-horned goat for a unicorn in London's colourful Petticoat Lane market."
+                },
+                "brand": {
+                    "title": "A Kid for Two Farthings",
+                    "programmeType": "FM",
+                    "websafeTitle": "a-kid-for-two-farthings"
+                }
+            },
+            {
+                "title": "A Place in the Sun",
+                "summary": "Lee and Sedigheh got engaged on sunny Cyprus and now hope to find the perfect holiday home in Paphos. But they've got an extensive wish list... Can Ben Hillman find them a Cypriot charmer?",
+                "channel": "4S",
+                "start": "2025-11-19T11:00:00.000Z",
+                "end": "2025-11-19T12:00:00.000Z",
+                "duration": 3600,
+                "offair": false,
+                "available": true,
+                "streamUri": "https://ais.channel4.com/simulcast/4S?client=c4",
+                "startAgainRights": true,
+                "image": {
+                    "href": "https://ic.c4assets.com/vps/a-place-in-the-sun-2023---western-cyprus/4C2014A7-98D9-49AA-AAE5817C758C6370.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}"
+                },
+                "programmeId": "75273-018",
+                "episode": {
+                    "title": "Tue 18 Nov 2025: Paphos, Cyprus",
+                    "secondaryTitle": "",
+                    "seriesNumber": 18,
+                    "episodeNumber": 70,
+                    "programmeId": "75273-018",
+                    "shortSummary": "Lee and Sedigheh, who got engaged on Cyprus, hunt for the perfect holiday home in Paphos",
+                    "summary": "Lee and Sedigheh got engaged on sunny Cyprus and now hope to find the perfect holiday home in Paphos. But they’ve got an extensive wish list... Can Ben Hillman find them a Cypriot charmer?"
+                },
+                "brand": {
+                    "title": "A Place in the Sun",
+                    "programmeType": "FB",
+                    "websafeTitle": "a-place-in-the-sun"
+                }
+            }
+        ]
+    },
+    "status": 200
+}

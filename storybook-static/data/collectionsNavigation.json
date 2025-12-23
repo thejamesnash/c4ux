@@ -1,0 +1,57 @@
+{
+        "title": "Collections",
+        "type": "COLLECTION",
+        "sliceItems": [
+            {
+                "title":"Change Climate",
+                "summary": "A collection of shows about our changing world",
+                "url":"#",
+                "image":{
+                    "href":"/images/climate.png"
+                }
+            },
+            {
+                "title":"Black & Proud",
+                "summary": "Celebrating Black lives and culture",
+                "url":"#",
+                "image":{
+                    "href":"/images/black.png"
+                }
+            },
+            {
+                "title":"The Pride Collection",
+                "summary": "Celebrating LBGTQIA+ lives and culture",
+                "url":"#",
+                "image":{
+                    "href":"/images/proud.png"
+                }
+            },
+            {
+                "title":"Stand Up To Cancer",
+                "summary": "Get the best of this huge night of entertainment",
+                "url":"#",
+                "image":{
+                    "href":"/images/cancer.png"
+                }
+            },
+            {
+                "title":"Film4",
+                "summary": "Great films you know, great films you don't",
+                "url":"#",
+                "image":{
+                    "href":"/images/film.png"
+                }
+            },
+            {
+                "title":"Untold",
+                "summary": "Dive into true stories told from all sides",
+                "url":"#",
+                "image":{
+                    "href":"/images/untold.png"
+                },
+                "focusimage":{
+                    "href":"/images/untold_colour.png"
+                }
+            }
+        ]
+    }

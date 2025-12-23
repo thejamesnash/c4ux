@@ -1,0 +1,803 @@
+{
+    "page": {
+        "number": 1,
+        "totalPages": 1,
+        "totalResults": 20,
+        "limit": 20,
+        "offset": 0,
+        "searchTerm": "BRIT"
+    },
+    "slices": [
+        {
+            "type": "RESULTS",
+            "title": "",
+            "summary": "",
+            "sliceItems": [
+                {
+                    "type": "brand",
+                    "title": "Game of Wool: *#*Brit*%*ain’s Best Knitter",
+                    "secondaryTitle": "Amateur knitters knock needles and compete to become the UK’s first TV knitting champion",
+                    "image": {
+                        "href": "https://ic.c4assets.com/vps/game-of-wool-britain-s-best-knitter/9C12712F-8BEA-4EE7-9EE2FA220CA9D65C.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                        "title": "Game_Of_Wool_Brand_1920x1080",
+                        "type": "image/jpeg",
+                        "templated": false
+                    },
+                    "label": "",
+                    "brand": {
+                        "updated": "2025-12-02T03:02:46.316Z",
+                        "title": "Game of Wool: Britain’s Best Knitter",
+                        "presentationBrand": "C4",
+                        "websafeTitle": "game-of-wool-britains-best-knitter",
+                        "programmeType": "SSU",
+                        "summary": "Tom Daley hosts as amateur knitters knock needles to impress judges Di Gilpin and Shelia Greenwell. Who can stitch without a glitch to become the UK’s first TV knitting champion?",
+                        "categories": [
+                            "Entertainment",
+                            "Competitions"
+                        ],
+                        "image": {
+                            "href": "https://ic.c4assets.com/vps/game-of-wool-britain-s-best-knitter/9C12712F-8BEA-4EE7-9EE2FA220CA9D65C.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                            "title": "Game_Of_Wool_Brand_1920x1080",
+                            "type": "image/jpeg",
+                            "templated": false
+                        },
+                        "allEpisodesCount": 5,
+                        "ondemandEpisodesCount": 5,
+                        "allSeriesCount": 1,
+                        "ondemandSeriesCount": 1,
+                        "signedStatus": "NONE",
+                        "audioDescribedStatus": "FULL",
+                        "subtitledStatus": "FULL"
+                    },
+                    "source": "search:results:::l1|::||",
+                    "_score": "4.0"
+                },
+                {
+                    "type": "brand",
+                    "title": "The Great *#*Brit*%*ish Bake Off",
+                    "secondaryTitle": "Get ready for gooey glory, dough disasters and pastry pandemonium in the iconic white tent",
+                    "image": {
+                        "href": "https://ic.c4assets.com/vps/the-great-british-bake-off/77285017-6050-4CE8-A494E47297DE1694.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                        "title": "GBBO_S16_Brand_1920x1080",
+                        "type": "image/jpeg",
+                        "templated": false
+                    },
+                    "label": "",
+                    "brand": {
+                        "updated": "2025-11-27T21:16:17.225Z",
+                        "title": "The Great British Bake Off",
+                        "presentationBrand": "C4",
+                        "websafeTitle": "the-great-british-bake-off",
+                        "programmeType": "MST",
+                        "summary": "Get ready for gooey glory, dough disasters and pastry pandemonium, as Britain's amateur bakers compete to impress judges Paul Hollywood and Prue Leith. On your marks... get set... BAKE!",
+                        "categories": [
+                            "Entertainment",
+                            "Competitions"
+                        ],
+                        "image": {
+                            "href": "https://ic.c4assets.com/vps/the-great-british-bake-off/77285017-6050-4CE8-A494E47297DE1694.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                            "title": "GBBO_S16_Brand_1920x1080",
+                            "type": "image/jpeg",
+                            "templated": false
+                        },
+                        "allEpisodesCount": 95,
+                        "ondemandEpisodesCount": 94,
+                        "allSeriesCount": 10,
+                        "ondemandSeriesCount": 9,
+                        "signedStatus": "NONE",
+                        "audioDescribedStatus": "PARTIAL",
+                        "subtitledStatus": "FULL"
+                    },
+                    "source": "search:results:::l2|::||",
+                    "_score": "4.0"
+                },
+                {
+                    "type": "brand",
+                    "title": "The King of Queens",
+                    "secondaryTitle": "Sitcom following the lives of delivery driver Doug, his wife Carrie and her eccentric dad",
+                    "image": {
+                        "href": "https://ic.c4assets.com/brands/the-king-of-queens/fbc086d9-4920-44d4-9857-3dc32ad8aa90.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                        "title": "The King of Queens",
+                        "type": "image/jpeg",
+                        "templated": true
+                    },
+                    "label": "",
+                    "brand": {
+                        "updated": "2025-12-02T07:50:08.131Z",
+                        "title": "The King of Queens",
+                        "presentationBrand": "C4",
+                        "websafeTitle": "the-king-of-queens",
+                        "programmeType": "MST",
+                        "summary": "American sitcom set in a working-class suburb of Queens, New York and starring Kevin James and Leah Remini. Life is good for delivery driver Doug and his wife Carrie. Then Carrie's dad moves in...",
+                        "categories": [
+                            "Comedy",
+                            "Sitcoms"
+                        ],
+                        "image": {
+                            "href": "https://ic.c4assets.com/brands/the-king-of-queens/fbc086d9-4920-44d4-9857-3dc32ad8aa90.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                            "title": "The King of Queens",
+                            "type": "image/jpeg",
+                            "templated": true
+                        },
+                        "allEpisodesCount": 204,
+                        "ondemandEpisodesCount": 204,
+                        "allSeriesCount": 9,
+                        "ondemandSeriesCount": 9,
+                        "signedStatus": "NONE",
+                        "audioDescribedStatus": "PARTIAL",
+                        "subtitledStatus": "FULL"
+                    },
+                    "source": "search:results:::l3|::||",
+                    "_score": "4.0"
+                },
+                {
+                    "type": "brand",
+                    "title": "The Great *#*Brit*%*ish Bake Off: Festive Specials",
+                    "secondaryTitle": "'Tis the season to be jolly. Celebrate with some Yuletide specials of Bake Off.",
+                    "image": {
+                        "href": "https://ic.c4assets.com/vps/the-great-british-bake-off-festive-specials/CB2FECE2-3FF5-4AD1-ABC76E728E298959.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                        "title": "GBBO_Festive_Specials_2024_Brand_1920x1080",
+                        "type": "image/jpeg",
+                        "templated": false
+                    },
+                    "label": "",
+                    "brand": {
+                        "updated": "2025-12-01T14:38:33.352Z",
+                        "title": "The Great British Bake Off: Festive Specials",
+                        "presentationBrand": "C4",
+                        "websafeTitle": "the-great-british-bake-off-festive-specials",
+                        "programmeType": "FB",
+                        "summary": "'Tis the season to be jolly. Celebrate with some Yuletide specials of Bake Off.",
+                        "categories": [
+                            "Lifestyle",
+                            "Food + Cooking"
+                        ],
+                        "image": {
+                            "href": "https://ic.c4assets.com/vps/the-great-british-bake-off-festive-specials/CB2FECE2-3FF5-4AD1-ABC76E728E298959.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                            "title": "GBBO_Festive_Specials_2024_Brand_1920x1080",
+                            "type": "image/jpeg",
+                            "templated": false
+                        },
+                        "allEpisodesCount": 16,
+                        "ondemandEpisodesCount": 16,
+                        "allSeriesCount": 1,
+                        "ondemandSeriesCount": 1,
+                        "signedStatus": "NONE",
+                        "audioDescribedStatus": "NONE",
+                        "subtitledStatus": "FULL"
+                    },
+                    "source": "search:results:::l4|::||",
+                    "_score": "4.0"
+                },
+                {
+                    "type": "brand",
+                    "title": "Married at First Sight UK (Signed)",
+                    "secondaryTitle": "The bold social experiment where single people, matched by experts, marry total strangers",
+                    "image": {
+                        "href": "https://ic.c4assets.com/vps/married-at-first-sight-uk-signed/C70C03D9-3B81-4464-A331ED6E818045DC.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                        "title": "MAFSUK_S10_Brand_1920x1080",
+                        "type": "image/jpeg",
+                        "templated": false
+                    },
+                    "label": "",
+                    "brand": {
+                        "updated": "2025-11-16T22:53:34.587Z",
+                        "title": "Married at First Sight UK (Signed)",
+                        "presentationBrand": "E4",
+                        "websafeTitle": "married-at-first-sight-uk-signed",
+                        "programmeType": "MSU",
+                        "summary": "The bold social experiment where single people, matched by experts, marry total strangers, who they meet for the very first time on their wedding day",
+                        "categories": [
+                            "Entertainment",
+                            "Love + Dating"
+                        ],
+                        "image": {
+                            "href": "https://ic.c4assets.com/vps/married-at-first-sight-uk-signed/C70C03D9-3B81-4464-A331ED6E818045DC.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                            "title": "MAFSUK_S10_Brand_1920x1080",
+                            "type": "image/jpeg",
+                            "templated": false
+                        },
+                        "allEpisodesCount": 73,
+                        "ondemandEpisodesCount": 72,
+                        "allSeriesCount": 3,
+                        "ondemandSeriesCount": 2,
+                        "signedStatus": "PARTIAL",
+                        "audioDescribedStatus": "PARTIAL",
+                        "subtitledStatus": "FULL"
+                    },
+                    "source": "search:results:::l5|::||",
+                    "_score": "4.0"
+                },
+                {
+                    "type": "brand",
+                    "title": "A Very *#*Brit*%*ish Hotel at Christmas",
+                    "secondaryTitle": "Viewers are invited for a magical Christmas at Brown's - London's oldest luxury hotel",
+                    "image": {
+                        "href": "https://ic.c4assets.com/vps/a-very-british-hotel-at-christmas/298CA930-8902-4E76-BDE2C9E5B1013CE5.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                        "title": "A_Very_British_Hotel_At_Christmas_Brand_1920x1080",
+                        "type": "image/jpeg",
+                        "templated": false
+                    },
+                    "label": "",
+                    "brand": {
+                        "updated": "2025-12-02T03:02:57.825Z",
+                        "title": "A Very British Hotel at Christmas",
+                        "presentationBrand": "C4",
+                        "websafeTitle": "a-very-british-hotel-at-christmas",
+                        "programmeType": "OOS",
+                        "summary": "Brown's, London's oldest luxury hotel, invites viewers behind the scenes for the very first time as it gears up for its busiest and most magical season",
+                        "categories": [
+                            "Documentaries",
+                            "Consumer, Industry + Food"
+                        ],
+                        "image": {
+                            "href": "https://ic.c4assets.com/vps/a-very-british-hotel-at-christmas/298CA930-8902-4E76-BDE2C9E5B1013CE5.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                            "title": "A_Very_British_Hotel_At_Christmas_Brand_1920x1080",
+                            "type": "image/jpeg",
+                            "templated": false
+                        },
+                        "allEpisodesCount": 1,
+                        "ondemandEpisodesCount": 1,
+                        "allSeriesCount": 1,
+                        "ondemandSeriesCount": 1,
+                        "signedStatus": "NONE",
+                        "audioDescribedStatus": "NONE",
+                        "subtitledStatus": "FULL"
+                    },
+                    "source": "search:results:::l6|::||",
+                    "_score": "4.0"
+                },
+                {
+                    "type": "brand",
+                    "title": "Hollyoaks Omnibus (Signed)",
+                    "secondaryTitle": "In the Chester village of Hollyoaks anything can - and frequently does - happen...",
+                    "image": {
+                        "href": "https://ic.c4assets.com/vps/hollyoaks-omnibus-signed/FB3F98C5-722B-4D51-9BD7E31313706095.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                        "title": "Hollyoaks_Brand_1920x1080",
+                        "type": "image/jpeg",
+                        "templated": false
+                    },
+                    "label": "",
+                    "brand": {
+                        "updated": "2025-12-02T05:55:14.138Z",
+                        "title": "Hollyoaks Omnibus (Signed)",
+                        "presentationBrand": "C4",
+                        "websafeTitle": "hollyoaks-omnibus-signed",
+                        "programmeType": "LR",
+                        "summary": "The daily soap that follows the loves, lives and misdemeanours of a group of people living in the Chester village of Hollyoaks where anything could, and frequently does happen...",
+                        "categories": [
+                            "Drama",
+                            "Soap"
+                        ],
+                        "image": {
+                            "href": "https://ic.c4assets.com/vps/hollyoaks-omnibus-signed/FB3F98C5-722B-4D51-9BD7E31313706095.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                            "title": "Hollyoaks_Brand_1920x1080",
+                            "type": "image/jpeg",
+                            "templated": false
+                        },
+                        "allEpisodesCount": 405,
+                        "ondemandEpisodesCount": 405,
+                        "allSeriesCount": 1,
+                        "ondemandSeriesCount": 1,
+                        "signedStatus": "PARTIAL",
+                        "audioDescribedStatus": "PARTIAL",
+                        "subtitledStatus": "FULL"
+                    },
+                    "source": "search:results:::l7|::||",
+                    "_score": "4.0"
+                },
+                {
+                    "type": "brand",
+                    "title": "*#*Brit*%*ain Under the Nazis: Forgotten Occupation",
+                    "secondaryTitle": "The little-known story of the Nazi occupation of the Channel Islands in World War II",
+                    "image": {
+                        "href": "https://ic.c4assets.com/vps/britain-under-the-nazis-forgotten-occupation/77F96F35-E961-499C-9EE1AE3337ED78C7.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                        "title": "BritainUnderTheNazis_TheForgottenOccupation_Brand_1920x1080",
+                        "type": "image/jpeg",
+                        "templated": false
+                    },
+                    "label": "",
+                    "brand": {
+                        "updated": "2025-11-25T13:25:34.106Z",
+                        "title": "Britain Under the Nazis: Forgotten Occupation",
+                        "presentationBrand": "C4",
+                        "websafeTitle": "britain-under-the-nazis-forgotten-occupation",
+                        "programmeType": "SST",
+                        "summary": "The little-known story of the Nazi occupation of the Channel Islands in World War II - a shocking tale of collaborators, informants, black marketeers, forced labour camps and brave resisters",
+                        "categories": [
+                            "Documentaries",
+                            "History"
+                        ],
+                        "image": {
+                            "href": "https://ic.c4assets.com/vps/britain-under-the-nazis-forgotten-occupation/77F96F35-E961-499C-9EE1AE3337ED78C7.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                            "title": "BritainUnderTheNazis_TheForgottenOccupation_Brand_1920x1080",
+                            "type": "image/jpeg",
+                            "templated": false
+                        },
+                        "allEpisodesCount": 2,
+                        "ondemandEpisodesCount": 2,
+                        "allSeriesCount": 1,
+                        "ondemandSeriesCount": 1,
+                        "signedStatus": "NONE",
+                        "audioDescribedStatus": "FULL",
+                        "subtitledStatus": "FULL"
+                    },
+                    "source": "search:results:::l8|::||",
+                    "_score": "4.0"
+                },
+                {
+                    "type": "brand",
+                    "title": "The Great *#*Brit*%*ish Bake Off: An Extra Slice",
+                    "secondaryTitle": "Knead more Bake Off? We take another bite, for when one helping just isn't enough",
+                    "image": {
+                        "href": "https://ic.c4assets.com/vps/the-great-british-bake-off-an-extra-slice/EEC603B4-D2C1-4299-B4A1CF461606F3F8.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                        "title": "GBBOExtraSlice_S16_BRAND_1920x1080",
+                        "type": "image/jpeg",
+                        "templated": false
+                    },
+                    "label": "",
+                    "brand": {
+                        "updated": "2025-11-30T21:01:29.292Z",
+                        "title": "The Great British Bake Off: An Extra Slice",
+                        "presentationBrand": "C4",
+                        "websafeTitle": "the-great-british-bake-off-an-extra-slice",
+                        "programmeType": "MSU",
+                        "summary": "Knead more Bake Off? Join Jo Brand and Tom Allen for another bite, when one helping just isn't enough, as they chat to celebs about all the action, and meet the latest baker to leave the tent",
+                        "categories": [
+                            "Entertainment",
+                            "Competitions"
+                        ],
+                        "image": {
+                            "href": "https://ic.c4assets.com/vps/the-great-british-bake-off-an-extra-slice/EEC603B4-D2C1-4299-B4A1CF461606F3F8.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                            "title": "GBBOExtraSlice_S16_BRAND_1920x1080",
+                            "type": "image/jpeg",
+                            "templated": false
+                        },
+                        "allEpisodesCount": 90,
+                        "ondemandEpisodesCount": 90,
+                        "allSeriesCount": 9,
+                        "ondemandSeriesCount": 9,
+                        "signedStatus": "NONE",
+                        "audioDescribedStatus": "PARTIAL",
+                        "subtitledStatus": "FULL"
+                    },
+                    "source": "search:results:::l9|::||",
+                    "_score": "4.0"
+                },
+                {
+                    "type": "brand",
+                    "title": "*#*Brit*%*ain's Most Expensive Houses",
+                    "secondaryTitle": "A lavish look at some of Britain's most jaw-dropping houses",
+                    "image": {
+                        "href": "https://ic.c4assets.com/vps/britain-s-most-expensive-houses/48D85BB7-1C88-43D2-B66101F5BECD1FD4.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                        "title": "Britains_Most_Expensive_Houses_S3_Brand_1920x1080",
+                        "type": "image/jpeg",
+                        "templated": false
+                    },
+                    "label": "",
+                    "brand": {
+                        "updated": "2025-11-27T00:06:01.378Z",
+                        "title": "Britain's Most Expensive Houses",
+                        "presentationBrand": "C4",
+                        "websafeTitle": "britains-most-expensive-houses",
+                        "programmeType": "MSU",
+                        "summary": "With exclusive access, we peek behind the doors of some of Britain's most incredible homes, as brokers set about selling jaw-dropping houses",
+                        "categories": [
+                            "Lifestyle",
+                            "Homes and Property"
+                        ],
+                        "image": {
+                            "href": "https://ic.c4assets.com/vps/britain-s-most-expensive-houses/48D85BB7-1C88-43D2-B66101F5BECD1FD4.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                            "title": "Britains_Most_Expensive_Houses_S3_Brand_1920x1080",
+                            "type": "image/jpeg",
+                            "templated": false
+                        },
+                        "allEpisodesCount": 21,
+                        "ondemandEpisodesCount": 21,
+                        "allSeriesCount": 4,
+                        "ondemandSeriesCount": 4,
+                        "signedStatus": "NONE",
+                        "audioDescribedStatus": "PARTIAL",
+                        "subtitledStatus": "FULL"
+                    },
+                    "source": "search:results:::l10|::||",
+                    "_score": "4.0"
+                },
+                {
+                    "type": "brand",
+                    "title": "Gogglebox: *#*Brit*%*ain Decides",
+                    "secondaryTitle": "What do Britain's sharpest armchair critics think of the general election campaigns?",
+                    "image": {
+                        "href": "https://ic.c4assets.com/vps/gogglebox-britain-decides/4C8B58E7-0C01-4D45-A5DD4404E53EEC46.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                        "title": "Gogglebox_Britain_Decides_Brand_1920x1080",
+                        "type": "image/jpeg",
+                        "templated": false
+                    },
+                    "label": "",
+                    "brand": {
+                        "updated": "2025-07-05T23:00:08.323Z",
+                        "title": "Gogglebox: Britain Decides",
+                        "presentationBrand": "C4",
+                        "websafeTitle": "gogglebox-britain-decides",
+                        "programmeType": "SSU",
+                        "summary": "What do Britain's sharpest armchair critics think of the general election campaigns?",
+                        "categories": [
+                            "Entertainment",
+                            "Real People"
+                        ],
+                        "image": {
+                            "href": "https://ic.c4assets.com/vps/gogglebox-britain-decides/4C8B58E7-0C01-4D45-A5DD4404E53EEC46.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                            "title": "Gogglebox_Britain_Decides_Brand_1920x1080",
+                            "type": "image/jpeg",
+                            "templated": false
+                        },
+                        "allEpisodesCount": 2,
+                        "ondemandEpisodesCount": 2,
+                        "allSeriesCount": 1,
+                        "ondemandSeriesCount": 1,
+                        "signedStatus": "NONE",
+                        "audioDescribedStatus": "NONE",
+                        "subtitledStatus": "FULL"
+                    },
+                    "source": "search:results:::l11|::||",
+                    "_score": "4.0"
+                },
+                {
+                    "type": "brand",
+                    "title": "The Inbetweeners (Signed)",
+                    "secondaryTitle": "Signed episodes of the smash-hit adolescent comedy about a bunch of lads behaving sadly",
+                    "image": {
+                        "href": "https://ic.c4assets.com/brands/the-inbetweeners-signed-version/4c142174-5ad6-437a-95a1-917ccac8f7af.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                        "title": "The Inbetweeners (Signed)",
+                        "type": "image/jpeg",
+                        "templated": true
+                    },
+                    "label": "",
+                    "brand": {
+                        "updated": "2025-03-10T16:16:06.510Z",
+                        "title": "The Inbetweeners (Signed)",
+                        "presentationBrand": "E4",
+                        "websafeTitle": "the-inbetweeners-signed",
+                        "programmeType": "MST",
+                        "summary": "Signed episodes of the hit adolescent comedy about lads behaving sadly. Welcome to a world of futile crushes, getting drunk too quickly and casting constant aspersions about your friends' sexuality.",
+                        "categories": [
+                            "Comedy",
+                            "Sitcoms"
+                        ],
+                        "image": {
+                            "href": "https://ic.c4assets.com/brands/the-inbetweeners-signed-version/4c142174-5ad6-437a-95a1-917ccac8f7af.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                            "title": "The Inbetweeners (Signed)",
+                            "type": "image/jpeg",
+                            "templated": true
+                        },
+                        "allEpisodesCount": 18,
+                        "ondemandEpisodesCount": 18,
+                        "allSeriesCount": 3,
+                        "ondemandSeriesCount": 3,
+                        "signedStatus": "FULL",
+                        "audioDescribedStatus": "NONE",
+                        "subtitledStatus": "FULL"
+                    },
+                    "source": "search:results:::l12|::||",
+                    "_score": "4.0"
+                },
+                {
+                    "type": "brand",
+                    "title": "The Great *#*Brit*%*ish Bake Off (Signed)",
+                    "secondaryTitle": "Get ready for gooey glory, dough disasters and pastry pandemonium in the iconic white tent",
+                    "image": {
+                        "href": "https://ic.c4assets.com/vps/the-great-british-bake-off-signed/2727E786-4387-46F2-B698B800562104D8.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                        "title": "GBBO_S16_Brand_1920x1080",
+                        "type": "image/jpeg",
+                        "templated": false
+                    },
+                    "label": "",
+                    "brand": {
+                        "updated": "2025-11-25T14:45:57.351Z",
+                        "title": "The Great British Bake Off (Signed)",
+                        "presentationBrand": "C4",
+                        "websafeTitle": "the-great-british-bake-off-signed",
+                        "programmeType": "MST",
+                        "summary": "Get ready for gooey glory, dough disasters and pastry pandemonium, as Britain's amateur bakers compete to impress judges Paul Hollywood and Prue Leith. On your marks... get set... BAKE!",
+                        "categories": [
+                            "Entertainment",
+                            "Competitions"
+                        ],
+                        "image": {
+                            "href": "https://ic.c4assets.com/vps/the-great-british-bake-off-signed/2727E786-4387-46F2-B698B800562104D8.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                            "title": "GBBO_S16_Brand_1920x1080",
+                            "type": "image/jpeg",
+                            "templated": false
+                        },
+                        "allEpisodesCount": 41,
+                        "ondemandEpisodesCount": 40,
+                        "allSeriesCount": 5,
+                        "ondemandSeriesCount": 4,
+                        "signedStatus": "PARTIAL",
+                        "audioDescribedStatus": "PARTIAL",
+                        "subtitledStatus": "FULL"
+                    },
+                    "source": "search:results:::l13|::||",
+                    "_score": "4.0"
+                },
+                {
+                    "type": "brand",
+                    "title": "A Very *#*Brit*%*ish Hotel",
+                    "secondaryTitle": "This series goes behind the scenes at London's exclusive Mandarin Oriental Hyde Park hotel",
+                    "image": {
+                        "href": "https://ic.c4assets.com/brands/a-very-british-hotel/674e1b1a-4a3f-42ae-81c4-50d0c0952178.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                        "title": "A Very British Hotel",
+                        "type": "image/jpeg",
+                        "templated": true
+                    },
+                    "label": "",
+                    "brand": {
+                        "updated": "2024-09-19T04:54:04.144Z",
+                        "title": "A Very British Hotel",
+                        "presentationBrand": "C4",
+                        "websafeTitle": "a-very-british-hotel",
+                        "programmeType": "SSU",
+                        "summary": "This series goes behind the scenes at London's exclusive Mandarin Oriental Hyde Park hotel in the middle of their busy summer season",
+                        "categories": [
+                            "Documentaries",
+                            "Consumer, Industry + Food"
+                        ],
+                        "image": {
+                            "href": "https://ic.c4assets.com/brands/a-very-british-hotel/674e1b1a-4a3f-42ae-81c4-50d0c0952178.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                            "title": "A Very British Hotel",
+                            "type": "image/jpeg",
+                            "templated": true
+                        },
+                        "allEpisodesCount": 3,
+                        "ondemandEpisodesCount": 3,
+                        "allSeriesCount": 1,
+                        "ondemandSeriesCount": 1,
+                        "signedStatus": "NONE",
+                        "audioDescribedStatus": "NONE",
+                        "subtitledStatus": "FULL"
+                    },
+                    "source": "search:results:::l14|::||",
+                    "_score": "4.0"
+                },
+                {
+                    "type": "brand",
+                    "title": "The Great Pottery Throw Down (Signed)",
+                    "secondaryTitle": "Twelve of Britain's best home potters compete to be crowned best at the wheel",
+                    "image": {
+                        "href": "https://ic.c4assets.com/vps/the-great-pottery-throw-down-signed/3698DA86-2A4E-4253-AC6A57D446D675EB.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                        "title": "Great_Pottery_Throwdown_S8_Brand_1920x1080",
+                        "type": "image/jpeg",
+                        "templated": false
+                    },
+                    "label": "",
+                    "brand": {
+                        "updated": "2025-11-27T16:57:52.423Z",
+                        "title": "The Great Pottery Throw Down (Signed)",
+                        "presentationBrand": "C4",
+                        "websafeTitle": "the-great-pottery-throw-down-signed",
+                        "programmeType": "MST",
+                        "summary": "Twelve of Britain's best home potters compete to be crowned best at the wheel",
+                        "categories": [
+                            "Entertainment",
+                            "Competitions"
+                        ],
+                        "image": {
+                            "href": "https://ic.c4assets.com/vps/the-great-pottery-throw-down-signed/3698DA86-2A4E-4253-AC6A57D446D675EB.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                            "title": "Great_Pottery_Throwdown_S8_Brand_1920x1080",
+                            "type": "image/jpeg",
+                            "templated": false
+                        },
+                        "allEpisodesCount": 30,
+                        "ondemandEpisodesCount": 30,
+                        "allSeriesCount": 3,
+                        "ondemandSeriesCount": 3,
+                        "signedStatus": "PARTIAL",
+                        "audioDescribedStatus": "PARTIAL",
+                        "subtitledStatus": "FULL"
+                    },
+                    "source": "search:results:::l15|::||",
+                    "_score": "4.0"
+                },
+                {
+                    "type": "brand",
+                    "title": "Better Things",
+                    "secondaryTitle": "(2008) Drama. Young villagers in the Cotswolds turn to heroin to fill their empty days.",
+                    "image": {
+                        "href": "https://ic.c4assets.com/vps/better-things/7ff05c77-e08f-4722-b889-0b920a944bb2.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                        "title": "Better Things",
+                        "type": "image/jpeg",
+                        "templated": false
+                    },
+                    "label": "",
+                    "brand": {
+                        "updated": "2025-11-12T03:55:43.448Z",
+                        "title": "Better Things",
+                        "presentationBrand": "F4",
+                        "websafeTitle": "better-things",
+                        "programmeType": "FM",
+                        "summary": "(2008) Stark drama. Young villagers in the Cotswolds turn to heroin to fill their empty days and empty lives.",
+                        "categories": [
+                            "Film",
+                            "Drama"
+                        ],
+                        "image": {
+                            "href": "https://ic.c4assets.com/vps/better-things/7ff05c77-e08f-4722-b889-0b920a944bb2.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                            "title": "Better Things",
+                            "type": "image/jpeg",
+                            "templated": false
+                        },
+                        "allEpisodesCount": 1,
+                        "ondemandEpisodesCount": 1,
+                        "allSeriesCount": 1,
+                        "ondemandSeriesCount": 1,
+                        "signedStatus": "NONE",
+                        "audioDescribedStatus": "NONE",
+                        "subtitledStatus": "FULL"
+                    },
+                    "source": "search:results:::l16|::||",
+                    "_score": "4.0"
+                },
+                {
+                    "type": "brand",
+                    "title": "Great *#*Brit*%*ish Bake Off Festive Special Signed",
+                    "secondaryTitle": "'Tis the season to be jolly. Celebrate with some Yuletide specials of Bake Off.",
+                    "image": {
+                        "href": "https://ic.c4assets.com/brands/great-british-bake-off-festive-special-signed/c1978595-9c4f-4c19-a5a3-bd7f99a9a5f0.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                        "title": "Great British Bake Off Festive Special Signed",
+                        "type": "image/jpeg",
+                        "templated": true
+                    },
+                    "label": "",
+                    "brand": {
+                        "updated": "2025-07-10T13:05:16.737Z",
+                        "title": "Great British Bake Off Festive Special Signed",
+                        "presentationBrand": "E4",
+                        "websafeTitle": "great-british-bake-off-festive-special-signed",
+                        "programmeType": "FB",
+                        "summary": "'Tis the season to be jolly. Celebrate with some Yuletide specials of Bake Off.",
+                        "categories": [
+                            "Lifestyle",
+                            "Food + Cooking"
+                        ],
+                        "image": {
+                            "href": "https://ic.c4assets.com/brands/great-british-bake-off-festive-special-signed/c1978595-9c4f-4c19-a5a3-bd7f99a9a5f0.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                            "title": "Great British Bake Off Festive Special Signed",
+                            "type": "image/jpeg",
+                            "templated": true
+                        },
+                        "allEpisodesCount": 6,
+                        "ondemandEpisodesCount": 6,
+                        "allSeriesCount": 1,
+                        "ondemandSeriesCount": 1,
+                        "signedStatus": "PARTIAL",
+                        "audioDescribedStatus": "PARTIAL",
+                        "subtitledStatus": "FULL"
+                    },
+                    "source": "search:results:::l17|::||",
+                    "_score": "4.0"
+                },
+                {
+                    "type": "brand",
+                    "title": "Great *#*Brit*%*ish Train Journeys from Above",
+                    "secondaryTitle": "To mark 200 years of train travel, the most iconic steam rail journeys in Britain",
+                    "image": {
+                        "href": "https://ic.c4assets.com/vps/great-british-train-journeys-from-above/24D0CAA2-705D-4CC6-909C29C4FA107F07.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                        "title": "Great_British_Train_Journeys_From_Above_Brand_1920x1080",
+                        "type": "image/jpeg",
+                        "templated": false
+                    },
+                    "label": "",
+                    "brand": {
+                        "updated": "2025-12-01T21:21:21.807Z",
+                        "title": "Great British Train Journeys from Above",
+                        "presentationBrand": "C4",
+                        "websafeTitle": "great-british-train-journeys-from-above",
+                        "programmeType": "SSU",
+                        "summary": "All aboard in celebration of 200 years of train travel. Hugh Bonneville narrates as cutting-edge drones showcase the most iconic steam rail journeys in Britain.",
+                        "categories": [
+                            "Documentaries",
+                            "Travel and Places"
+                        ],
+                        "image": {
+                            "href": "https://ic.c4assets.com/vps/great-british-train-journeys-from-above/24D0CAA2-705D-4CC6-909C29C4FA107F07.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                            "title": "Great_British_Train_Journeys_From_Above_Brand_1920x1080",
+                            "type": "image/jpeg",
+                            "templated": false
+                        },
+                        "allEpisodesCount": 4,
+                        "ondemandEpisodesCount": 4,
+                        "allSeriesCount": 1,
+                        "ondemandSeriesCount": 1,
+                        "signedStatus": "NONE",
+                        "audioDescribedStatus": "FULL",
+                        "subtitledStatus": "FULL"
+                    },
+                    "source": "search:results:::l18|::||",
+                    "_score": "4.0"
+                },
+                {
+                    "type": "brand",
+                    "title": "Gogglebox (Signed)",
+                    "secondaryTitle": "What do Britain's sharpest armchair critics think of our biggest and best TV programmes?",
+                    "image": {
+                        "href": "https://ic.c4assets.com/vps/gogglebox-signed/84A1ACCA-9E72-4E12-8F45A60D2482E9A1.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                        "title": "Gogglebox_BSL_S25_Brand_1920x1080",
+                        "type": "image/jpeg",
+                        "templated": false
+                    },
+                    "label": "",
+                    "brand": {
+                        "updated": "2025-11-30T00:04:23.125Z",
+                        "title": "Gogglebox (Signed)",
+                        "presentationBrand": "C4",
+                        "websafeTitle": "gogglebox-signed",
+                        "programmeType": "MSU",
+                        "summary": "What do Britain's sharpest armchair critics think of our biggest and best TV programmes? With BSL",
+                        "categories": [
+                            "Entertainment",
+                            "Real People"
+                        ],
+                        "image": {
+                            "href": "https://ic.c4assets.com/vps/gogglebox-signed/84A1ACCA-9E72-4E12-8F45A60D2482E9A1.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                            "title": "Gogglebox_BSL_S25_Brand_1920x1080",
+                            "type": "image/jpeg",
+                            "templated": false
+                        },
+                        "allEpisodesCount": 80,
+                        "ondemandEpisodesCount": 80,
+                        "allSeriesCount": 5,
+                        "ondemandSeriesCount": 5,
+                        "signedStatus": "PARTIAL",
+                        "audioDescribedStatus": "PARTIAL",
+                        "subtitledStatus": "FULL"
+                    },
+                    "source": "search:results:::l19|::||",
+                    "_score": "4.0"
+                },
+                {
+                    "type": "brand",
+                    "title": "Handmade: *#*Brit*%*ain's Best Woodworker",
+                    "secondaryTitle": "Mel Giedroyc hosts as skilful craftspeople compete to be crowned Britain's best woodworker",
+                    "image": {
+                        "href": "https://ic.c4assets.com/brands/handmade-britains-best-woodworker/505af573-ae88-4c8f-b54a-cec973832551.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                        "title": "Handmade: Britain's Best Woodworker",
+                        "type": "image/jpeg",
+                        "templated": true
+                    },
+                    "label": "",
+                    "brand": {
+                        "updated": "2025-12-01T17:31:34.583Z",
+                        "title": "Handmade: Britain's Best Woodworker",
+                        "presentationBrand": "C4",
+                        "websafeTitle": "handmade-britains-best-woodworker",
+                        "programmeType": "MSU",
+                        "summary": "Mel Giedroyc hosts as talented, good-with-wood craftspeople compete to be crowned Britain's best woodworker",
+                        "categories": [
+                            "Entertainment",
+                            "Competitions"
+                        ],
+                        "image": {
+                            "href": "https://ic.c4assets.com/brands/handmade-britains-best-woodworker/505af573-ae88-4c8f-b54a-cec973832551.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                            "title": "Handmade: Britain's Best Woodworker",
+                            "type": "image/jpeg",
+                            "templated": true
+                        },
+                        "allEpisodesCount": 22,
+                        "ondemandEpisodesCount": 22,
+                        "allSeriesCount": 3,
+                        "ondemandSeriesCount": 3,
+                        "signedStatus": "NONE",
+                        "audioDescribedStatus": "NONE",
+                        "subtitledStatus": "FULL"
+                    },
+                    "source": "search:results:::l20|::||",
+                    "_score": "4.0"
+                }
+            ],
+            "suggestions": []
+        }
+    ],
+    "user": {
+        "authenticated": false
+    }
+}

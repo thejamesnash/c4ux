@@ -1,0 +1,631 @@
+{
+    "slices":[
+{
+                    "title": "",
+                    "type": "COLLECTION",
+                    "url": "",
+                    "summary": "",
+                    "xPosition": 0,
+                    "yPosition": 0,
+                    "width": 3,
+                    "sliceItems": [
+                        {
+                            "type": "brand",
+                            "title": "Tempting Fortune",
+                            "summary": "Strangers embark on a gruelling trek. Who'll spend some of the shared prize on luxuries?",
+                            "source": "homepage|COLLECTION:HERO:homepage-hero-10|p1|l1",
+                            "image": {
+                                "href": "https://ic.c4assets.com/bips/collections/C71B4ADB-816F-434b-ab20-e385b2ad2256.jpg?interpolation=progressive-bicubic&output-quality=90&output-format=jpeg{&resize}",
+                                "title": "",
+                                "type": "image/jpeg",
+                                "templated": true
+                            },
+                            "brand": {
+                                "title": "Tempting Fortune",
+                                "presentationBrand": "C4",
+                                "websafeTitle": "tempting-fortune",
+                                "programmeType": "MST",
+                                "summary": "Paddy McGuinness presents the epic competition with a twist. Twelve strangers trek across hostile jungles and wildernesses, but who'll spend some of the shared £300k prize pot on individual luxuries?",
+                                "shortSummary": "Strangers embark on a gruelling trek. Who'll spend some of the shared prize on luxuries?",
+                                "updated": "2025-04-07T02:03:56.449Z",
+                                "categories": [
+                                    "Entertainment",
+                                    "Competitions"
+                                ],
+                                "favouriteSet": false,
+                                "image": {
+                                    "href": "https://ic.c4assets.com/vps/tempting-fortune/2FB6F696-54F4-4F1F-8342D10FF07CE4E4.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                                    "title": "Tempting_Fortune_S2_Brand_1920x1080",
+                                    "type": "image/jpeg",
+                                    "templated": false
+                                },
+                                "images": [
+                                    {
+                                        "href": "https://ic.c4assets.com/bips/19563518/5A20C906-7901-4710-a2e6-aec05cd5e8f7.jpg?interpolation=progressive-bicubic&output-quality=90&output-format=jpeg{&resize}",
+                                        "title": "",
+                                        "type": "image/jpeg",
+                                        "templated": true,
+                                        "height": 2160,
+                                        "width": 3840,
+                                        "aspectRatio": "16:9",
+                                        "fallback": false,
+                                        "imageType": "PRIMARY_HERO"
+                                    },
+                                    {
+                                        "href": "https://ic.c4assets.com/bips/19563518/88A545F2-2FF6-4f27-aeab-0985c4349376.png?interpolation=progressive-bicubic&output-quality=90&output-format=png{&resize}",
+                                        "title": "",
+                                        "type": "image/png",
+                                        "templated": true,
+                                        "height": 660,
+                                        "width": 1356,
+                                        "aspectRatio": "113:55",
+                                        "fallback": false,
+                                        "imageType": "TITLE_TREATMENT"
+                                    },
+                                    {
+                                        "href": "https://ic.c4assets.com/vps/tempting-fortune/10757B29-00FD-4EB6-A6D028F0DAEADB12.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                                        "title": "Tempting_Fortune_S2_Apple_TV_3840x2160",
+                                        "type": "image/jpeg",
+                                        "templated": false,
+                                        "height": 2160,
+                                        "width": 3840,
+                                        "aspectRatio": "16:9",
+                                        "fallback": false
+                                    },
+                                    {
+                                        "href": "https://ic.c4assets.com/vps/tempting-fortune/736F80B8-F7DC-429E-85F78FB7EF1C998B.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                                        "title": "Tempting_Fortune_S2_Boxset_600x800",
+                                        "type": "image/jpeg",
+                                        "templated": false,
+                                        "height": 800,
+                                        "width": 600,
+                                        "aspectRatio": "3:4",
+                                        "fallback": false
+                                    },
+                                    {
+                                        "href": "https://ic.c4assets.com/vps/tempting-fortune/C91D9271-B904-4175-84C0F8AE4EAC0BF8.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                                        "title": "Tempting_Fortune_S2_Brand_1024x730",
+                                        "type": "image/jpeg",
+                                        "templated": false,
+                                        "height": 730,
+                                        "width": 1024,
+                                        "aspectRatio": "4:3",
+                                        "fallback": false
+                                    },
+                                    {
+                                        "href": "https://ic.c4assets.com/vps/tempting-fortune/2FB6F696-54F4-4F1F-8342D10FF07CE4E4.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                                        "title": "Tempting_Fortune_S2_Brand_1920x1080",
+                                        "type": "image/jpeg",
+                                        "templated": false,
+                                        "height": 1080,
+                                        "width": 1920,
+                                        "aspectRatio": "16:9",
+                                        "fallback": false
+                                    },
+                                    {
+                                        "href": "https://ic.c4assets.com/vps/tempting-fortune/B4AED63E-872D-4591-BF6DC913890EEE61.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                                        "title": "Tempting_Fortune_S2_Brand_3000x3000",
+                                        "type": "image/jpeg",
+                                        "templated": false,
+                                        "height": 3000,
+                                        "width": 3000,
+                                        "aspectRatio": "1:1",
+                                        "fallback": false
+                                    }
+                                ],
+                                "allEpisodesCount": 14,
+                                "ondemandEpisodesCount": 14,
+                                "allSeriesCount": 2,
+                                "ondemandSeriesCount": 2,
+                                "audioDescribedStatus": "PARTIAL",
+                                "subtitledStatus": "PARTIAL",
+                                "signedStatus": "NONE"
+                            },
+                            "secondaryTitle": "Watch Paddy McGuinness in TV's most fiendish reality show",
+                            "theme": "c4",
+                            "editorialLabel": "Latest Episode",
+                            "programmeStatus": "VOD"
+                        },
+                        {
+                            "type": "brand",
+                            "title": "Hollyoaks",
+                            "summary": "Hollyoaks: the village in Chester where it all happens",
+                            "source": "homepage|COLLECTION:HERO:homepage-hero-10|p1|l2",
+                            "image": {
+                                "href": "https://ic.c4assets.com/bips/collections/D3F7A0BF-08D1-48f0-864b-73938e972046.jpg?interpolation=progressive-bicubic&output-quality=90&output-format=jpeg{&resize}",
+                                "title": "",
+                                "type": "image/jpeg",
+                                "templated": true
+                            },
+                            "brand": {
+                                "title": "Hollyoaks",
+                                "presentationBrand": "C4",
+                                "websafeTitle": "hollyoaks",
+                                "programmeType": "FB",
+                                "summary": "Hollyoaks: the village in Chester where it all happens",
+                                "shortSummary": "Hollyoaks: the village in Chester where it all happens",
+                                "updated": "2025-04-07T05:55:12.714Z",
+                                "categories": [
+                                    "Drama",
+                                    "Soap"
+                                ],
+                                "favouriteSet": false,
+                                "image": {
+                                    "href": "https://ic.c4assets.com/vps/hollyoaks/F5E7F106-5034-495A-B294D4A1234DA261.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                                    "title": "Hollyoaks_Jan_2025_Brand_1920x1080",
+                                    "type": "image/jpeg",
+                                    "templated": false
+                                },
+                                "images": [
+                                    {
+                                        "href": "https://ic.c4assets.com/bips/3058242/08726BFA-9D44-4ea0-ad5c-b99d02db3696.jpg?interpolation=progressive-bicubic&output-quality=90&output-format=jpeg{&resize}",
+                                        "title": "",
+                                        "type": "image/jpeg",
+                                        "templated": true,
+                                        "height": 2160,
+                                        "width": 3840,
+                                        "aspectRatio": "16:9",
+                                        "fallback": false,
+                                        "imageType": "PRIMARY_HERO"
+                                    },
+                                    {
+                                        "href": "https://ic.c4assets.com/bips/3058242/CDB61B88-06B8-43db-bf89-43444b9921f3.png?interpolation=progressive-bicubic&output-quality=90&output-format=png{&resize}",
+                                        "title": "",
+                                        "type": "image/png",
+                                        "templated": true,
+                                        "height": 660,
+                                        "width": 1356,
+                                        "aspectRatio": "113:55",
+                                        "fallback": false,
+                                        "imageType": "TITLE_TREATMENT"
+                                    },
+                                    {
+                                        "href": "https://ic.c4assets.com/vps/hollyoaks/B2BE5D97-6523-4F65-AE8A6E89F31580EE.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                                        "title": "Hollyoaks_Jan_2025_Apple_TV_3840x2160",
+                                        "type": "image/jpeg",
+                                        "templated": false,
+                                        "height": 2160,
+                                        "width": 3840,
+                                        "aspectRatio": "16:9",
+                                        "fallback": false
+                                    },
+                                    {
+                                        "href": "https://ic.c4assets.com/vps/hollyoaks/09332856-8703-45DF-92F9A287290554DF.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                                        "title": "Hollyoaks_Jan_2025_Brand_1024x730",
+                                        "type": "image/jpeg",
+                                        "templated": false,
+                                        "height": 730,
+                                        "width": 1024,
+                                        "aspectRatio": "4:3",
+                                        "fallback": false
+                                    },
+                                    {
+                                        "href": "https://ic.c4assets.com/vps/hollyoaks/F5E7F106-5034-495A-B294D4A1234DA261.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                                        "title": "Hollyoaks_Jan_2025_Brand_1920x1080",
+                                        "type": "image/jpeg",
+                                        "templated": false,
+                                        "height": 1080,
+                                        "width": 1920,
+                                        "aspectRatio": "16:9",
+                                        "fallback": false
+                                    },
+                                    {
+                                        "href": "https://ic.c4assets.com/vps/hollyoaks/8DAC126F-7F84-4797-B52984CB4BD84311.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                                        "title": "Hollyoaks_Jan_2025_Sky_Box_Set_600x800",
+                                        "type": "image/jpeg",
+                                        "templated": false,
+                                        "height": 800,
+                                        "width": 600,
+                                        "aspectRatio": "3:4",
+                                        "fallback": false
+                                    },
+                                    {
+                                        "href": "https://ic.c4assets.com/vps/hollyoaks/CCCCAEC2-48CE-4BC9-9771C03E5540C091.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                                        "title": "Hollyoaks_Jan_2025_Brand_3000_x_3000",
+                                        "type": "image/jpeg",
+                                        "templated": false,
+                                        "height": 3000,
+                                        "width": 3000,
+                                        "aspectRatio": "1:1",
+                                        "fallback": false
+                                    }
+                                ],
+                                "allEpisodesCount": 791,
+                                "ondemandEpisodesCount": 789,
+                                "allSeriesCount": 1,
+                                "ondemandSeriesCount": 1,
+                                "audioDescribedStatus": "PARTIAL",
+                                "subtitledStatus": "FULL",
+                                "signedStatus": "NONE"
+                            },
+                            "secondaryTitle": "See into the missing year in this special episode",
+                            "theme": "c4",
+                            "editorialLabel": "Don't miss it",
+                            "programmeStatus": "VOD"
+                        },
+                        {
+                            "type": "brand",
+                            "title": "The Great Celebrity Bake Off for SU2C",
+                            "summary": "Celebrities bake and Stand Up To Cancer",
+                            "source": "homepage|COLLECTION:HERO:homepage-hero-10|p1|l3",
+                            "image": {
+                                "href": "https://ic.c4assets.com/bips/collections/64AD1CF4-E56F-4c3a-a48c-075d00192cf1.jpg?interpolation=progressive-bicubic&output-quality=90&output-format=jpeg{&resize}",
+                                "title": "",
+                                "type": "image/jpeg",
+                                "templated": true
+                            },
+                            "brand": {
+                                "title": "The Great Celebrity Bake Off for SU2C",
+                                "presentationBrand": "C4",
+                                "websafeTitle": "the-great-celebrity-bake-off-for-su2c",
+                                "programmeType": "MST",
+                                "summary": "Celebrity bakers enter Britain's most famous tent and put their skills to the test, as they Stand Up To Cancer and inspire viewers to do the same",
+                                "shortSummary": "Celebrities bake and Stand Up To Cancer",
+                                "updated": "2025-04-07T02:04:02.089Z",
+                                "categories": [
+                                    "Entertainment",
+                                    "Competitions"
+                                ],
+                                "favouriteSet": false,
+                                "image": {
+                                    "href": "https://ic.c4assets.com/vps/the-great-celebrity-bake-off-for-su2c/13F61F3C-AFBF-451D-B5B6CB17F7E05C96.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                                    "title": "Celeb_Bake_Off_SU2C_S8_Brand_1920x1080",
+                                    "type": "image/jpeg",
+                                    "templated": false
+                                },
+                                "images": [
+                                    {
+                                        "href": "https://ic.c4assets.com/bips/11466612/D0F5AD68-7484-4a2c-8691-3244912eb2ab.jpg?interpolation=progressive-bicubic&output-quality=90&output-format=jpeg{&resize}",
+                                        "title": "",
+                                        "type": "image/jpeg",
+                                        "templated": true,
+                                        "height": 2160,
+                                        "width": 3840,
+                                        "aspectRatio": "16:9",
+                                        "fallback": false,
+                                        "imageType": "PRIMARY_HERO"
+                                    },
+                                    {
+                                        "href": "https://ic.c4assets.com/bips/11466612/F1AF863D-492A-433a-833c-ee010daca833.png?interpolation=progressive-bicubic&output-quality=90&output-format=png{&resize}",
+                                        "title": "",
+                                        "type": "image/png",
+                                        "templated": true,
+                                        "height": 660,
+                                        "width": 1356,
+                                        "aspectRatio": "113:55",
+                                        "fallback": false,
+                                        "imageType": "TITLE_TREATMENT"
+                                    },
+                                    {
+                                        "href": "https://ic.c4assets.com/vps/the-great-celebrity-bake-off-for-su2c/D049E5CB-E41F-4EE9-B940800B38D0614F.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                                        "title": "Celeb_Bake_Off_SU2C_S8_Apple_TV_3840x2160",
+                                        "type": "image/jpeg",
+                                        "templated": false,
+                                        "height": 2160,
+                                        "width": 3840,
+                                        "aspectRatio": "16:9",
+                                        "fallback": false
+                                    },
+                                    {
+                                        "href": "https://ic.c4assets.com/vps/the-great-celebrity-bake-off-for-su2c/40A36DAB-019E-4784-9923365A38C63E8C.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                                        "title": "Celeb_Bake_Off_SU2C_S8_Boxset_600x800",
+                                        "type": "image/jpeg",
+                                        "templated": false,
+                                        "height": 800,
+                                        "width": 600,
+                                        "aspectRatio": "3:4",
+                                        "fallback": false
+                                    },
+                                    {
+                                        "href": "https://ic.c4assets.com/vps/the-great-celebrity-bake-off-for-su2c/1A4F5599-DE75-40F0-9E4E0A8DF456DD32.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                                        "title": "Celeb_Bake_Off_SU2C_S8_Brand_1024x730",
+                                        "type": "image/jpeg",
+                                        "templated": false,
+                                        "height": 730,
+                                        "width": 1024,
+                                        "aspectRatio": "4:3",
+                                        "fallback": false
+                                    },
+                                    {
+                                        "href": "https://ic.c4assets.com/vps/the-great-celebrity-bake-off-for-su2c/13F61F3C-AFBF-451D-B5B6CB17F7E05C96.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                                        "title": "Celeb_Bake_Off_SU2C_S8_Brand_1920x1080",
+                                        "type": "image/jpeg",
+                                        "templated": false,
+                                        "height": 1080,
+                                        "width": 1920,
+                                        "aspectRatio": "16:9",
+                                        "fallback": false
+                                    },
+                                    {
+                                        "href": "https://ic.c4assets.com/vps/the-great-celebrity-bake-off-for-su2c/432FA734-D587-437F-8B3CF1C5F56645E8.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                                        "title": "Celeb_Bake_Off_SU2C_S8_Brand_3000x3000",
+                                        "type": "image/jpeg",
+                                        "templated": false,
+                                        "height": 3000,
+                                        "width": 3000,
+                                        "aspectRatio": "1:1",
+                                        "fallback": false
+                                    }
+                                ],
+                                "allEpisodesCount": 37,
+                                "ondemandEpisodesCount": 37,
+                                "allSeriesCount": 8,
+                                "ondemandSeriesCount": 8,
+                                "audioDescribedStatus": "PARTIAL",
+                                "subtitledStatus": "FULL",
+                                "signedStatus": "NONE"
+                            },
+                            "secondaryTitle": "Tommy Tiernan, Self Esteem, Adam Buxton and Meera Syal",
+                            "theme": "stand-up-to-cancer",
+                            "editorialLabel": "Latest Episode",
+                            "programmeStatus": "VOD"
+                        },
+                        {
+                            "type": "brand",
+                            "title": "The Change",
+                            "summary": "Comedy. A mum of two finds out she's menopausal and goes to live in the forest.",
+                            "source": "homepage|COLLECTION:HERO:homepage-hero-10|p1|l4",
+                            "image": {
+                                "href": "https://ic.c4assets.com/bips/collections/287E72C2-76F7-43fb-b35b-8a8becef2ad8.jpg?interpolation=progressive-bicubic&output-quality=90&output-format=jpeg{&resize}",
+                                "title": "",
+                                "type": "image/jpeg",
+                                "templated": true
+                            },
+                            "brand": {
+                                "title": "The Change",
+                                "presentationBrand": "C4",
+                                "websafeTitle": "the-change",
+                                "programmeType": "MSU",
+                                "summary": "Sharp comedy from Bridget Christie. Linda finds a new lease of life when she learns that she's experiencing menopause. So she heads to the forest on a journey of self-discovery.",
+                                "shortSummary": "Comedy. A mum of two finds out she's menopausal and goes to live in the forest.",
+                                "updated": "2025-04-07T02:10:08.961Z",
+                                "categories": [
+                                    "Comedy",
+                                    "Sitcoms"
+                                ],
+                                "favouriteSet": false,
+                                "image": {
+                                    "href": "https://ic.c4assets.com/vps/the-change/552B8DAC-8E48-463D-98C4CC58B3AF3B93.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                                    "title": "The_Change_S2_Brand_1920x1080",
+                                    "type": "image/jpeg",
+                                    "templated": false
+                                },
+                                "images": [
+                                    {
+                                        "href": "https://ic.c4assets.com/bips/19935524/EED8D192-CA92-4b96-a04c-fe8c92b896d3.jpg?interpolation=progressive-bicubic&output-quality=90&output-format=jpeg{&resize}",
+                                        "title": "",
+                                        "type": "image/jpeg",
+                                        "templated": true,
+                                        "height": 2160,
+                                        "width": 3840,
+                                        "aspectRatio": "16:9",
+                                        "fallback": false,
+                                        "imageType": "PRIMARY_HERO"
+                                    },
+                                    {
+                                        "href": "https://ic.c4assets.com/bips/19935524/F8380AE1-4B3E-4b57-b5e9-6aed25c627b5.png?interpolation=progressive-bicubic&output-quality=90&output-format=png{&resize}",
+                                        "title": "",
+                                        "type": "image/png",
+                                        "templated": true,
+                                        "height": 2750,
+                                        "width": 5650,
+                                        "aspectRatio": "113:55",
+                                        "fallback": false,
+                                        "imageType": "TITLE_TREATMENT"
+                                    },
+                                    {
+                                        "href": "https://ic.c4assets.com/vps/the-change/54010977-9b45-485a-a57a-efa5f492abfa.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                                        "title": "The Change",
+                                        "type": "image/jpeg",
+                                        "templated": false,
+                                        "height": 800,
+                                        "width": 600,
+                                        "aspectRatio": "3:4",
+                                        "fallback": false
+                                    },
+                                    {
+                                        "href": "https://ic.c4assets.com/vps/the-change/A98323D8-05CC-4BF9-9E7788C3B8DB4D6A.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                                        "title": "The_Change_S2_Apple_TV_3840x2160",
+                                        "type": "image/jpeg",
+                                        "templated": false,
+                                        "height": 2160,
+                                        "width": 3840,
+                                        "aspectRatio": "16:9",
+                                        "fallback": false
+                                    },
+                                    {
+                                        "href": "https://ic.c4assets.com/vps/the-change/5F6EDEA1-5A3C-4EA7-8830F3BE577A5FA6.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                                        "title": "The_Change_S2_Brand_1024x730",
+                                        "type": "image/jpeg",
+                                        "templated": false,
+                                        "height": 730,
+                                        "width": 1024,
+                                        "aspectRatio": "4:3",
+                                        "fallback": false
+                                    },
+                                    {
+                                        "href": "https://ic.c4assets.com/vps/the-change/552B8DAC-8E48-463D-98C4CC58B3AF3B93.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                                        "title": "The_Change_S2_Brand_1920x1080",
+                                        "type": "image/jpeg",
+                                        "templated": false,
+                                        "height": 1080,
+                                        "width": 1920,
+                                        "aspectRatio": "16:9",
+                                        "fallback": false
+                                    },
+                                    {
+                                        "href": "https://ic.c4assets.com/vps/the-change/653F68F4-2FE2-4A4A-B8D96CEFBFEF085E.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                                        "title": "The_Change_S2_Brand_3000x3000",
+                                        "type": "image/jpeg",
+                                        "templated": false,
+                                        "height": 3000,
+                                        "width": 3000,
+                                        "aspectRatio": "1:1",
+                                        "fallback": false
+                                    }
+                                ],
+                                "allEpisodesCount": 12,
+                                "ondemandEpisodesCount": 12,
+                                "allSeriesCount": 2,
+                                "ondemandSeriesCount": 2,
+                                "audioDescribedStatus": "PARTIAL",
+                                "subtitledStatus": "FULL",
+                                "signedStatus": "NONE"
+                            },
+                            "secondaryTitle": "‘Ambitious, surreal, moving, and above all hysterically funny’ (The Guardian)",
+                            "theme": "c4",
+                            "editorialLabel": "Watch every episode",
+                            "programmeStatus": "VOD"
+                        },
+                        {
+                            "type": "brand",
+                            "title": "The Big Bang Theory",
+                            "summary": "US sitcom. The arrival of a beautiful new neighbour throws two nerdy flatmates for a loop.",
+                            "source": "homepage|COLLECTION:HERO:homepage-hero-10|p1|l5",
+                            "image": {
+                                "href": "https://ic.c4assets.com/bips/collections/ED6215BA-FB1B-47a1-9961-817266c48e52.jpg?interpolation=progressive-bicubic&output-quality=90&output-format=jpeg{&resize}",
+                                "title": "",
+                                "type": "image/jpeg",
+                                "templated": true
+                            },
+                            "brand": {
+                                "title": "The Big Bang Theory",
+                                "presentationBrand": "C4",
+                                "websafeTitle": "the-big-bang-theory",
+                                "programmeType": "MST",
+                                "summary": "Astronomically popular US sitcom. Nerdy flatmates Leonard and Sheldon know a lot about physics, but little about women. But when Penny moves in across the hall, that could all be about to change...",
+                                "shortSummary": "US sitcom. The arrival of a beautiful new neighbour throws two nerdy flatmates for a loop.",
+                                "updated": "2025-04-07T09:00:18.990Z",
+                                "categories": [
+                                    "Comedy",
+                                    "Sitcoms"
+                                ],
+                                "favouriteSet": false,
+                                "image": {
+                                    "href": "https://ic.c4assets.com/brands/the-big-bang-theory/49a26338-6aaa-42a5-9af5-78f1b1149daf.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                                    "title": "The Big Bang Theory",
+                                    "type": "image/jpeg",
+                                    "templated": true
+                                },
+                                "images": [
+                                    {
+                                        "href": "https://ic.c4assets.com/bips/3058153/86654696-D8AF-46a9-acb3-5b03a5da05ad.jpg?interpolation=progressive-bicubic&output-quality=90&output-format=jpeg{&resize}",
+                                        "title": "",
+                                        "type": "image/jpeg",
+                                        "templated": true,
+                                        "height": 2160,
+                                        "width": 3840,
+                                        "aspectRatio": "16:9",
+                                        "fallback": false,
+                                        "imageType": "PRIMARY_HERO"
+                                    },
+                                    {
+                                        "href": "https://ic.c4assets.com/bips/3058153/0E315DB0-B945-4e6c-8597-021dac470e25.png?interpolation=progressive-bicubic&output-quality=90&output-format=png{&resize}",
+                                        "title": "",
+                                        "type": "image/png",
+                                        "templated": true,
+                                        "height": 660,
+                                        "width": 1356,
+                                        "aspectRatio": "113:55",
+                                        "fallback": false,
+                                        "imageType": "TITLE_TREATMENT"
+                                    },
+                                    {
+                                        "href": "https://ic.c4assets.com/brands/the-big-bang-theory/49a26338-6aaa-42a5-9af5-78f1b1149daf.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                                        "title": "The Big Bang Theory",
+                                        "type": "image/jpeg",
+                                        "templated": true,
+                                        "height": 1080,
+                                        "width": 1920,
+                                        "aspectRatio": "16:9",
+                                        "fallback": false
+                                    },
+                                    {
+                                        "href": "https://ic.c4assets.com/vps/the-big-bang-theory/23d2d1b7-f0ec-4b01-95f9-8500c27e8078.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                                        "title": "The Big Bang Theory",
+                                        "type": "image/jpeg",
+                                        "templated": false,
+                                        "height": 3000,
+                                        "width": 3000,
+                                        "aspectRatio": "1:1",
+                                        "fallback": false
+                                    },
+                                    {
+                                        "href": "https://ic.c4assets.com/vps/the-big-bang-theory/44c44201-8aac-4bbf-bb0a-4cd7584d29e0.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                                        "title": "The Big Bang Theory",
+                                        "type": "image/jpeg",
+                                        "templated": false,
+                                        "height": 2160,
+                                        "width": 3840,
+                                        "aspectRatio": "16:9",
+                                        "fallback": false
+                                    },
+                                    {
+                                        "href": "https://ic.c4assets.com/vps/the-big-bang-theory/d4129a67-966b-431a-85cf-7b82832249f9.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                                        "title": "The Big Bang Theory",
+                                        "type": "image/jpeg",
+                                        "templated": false,
+                                        "height": 800,
+                                        "width": 600,
+                                        "aspectRatio": "3:4",
+                                        "fallback": false
+                                    },
+                                    {
+                                        "href": "https://ic.c4assets.com/vps/the-big-bang-theory/e00a8a27-99d6-4cef-9980-30092a0d578b.jpg?interpolation=progressive-bicubic&output-format=jpeg&output-quality=90{&resize}",
+                                        "title": "The Big Bang Theory",
+                                        "type": "image/jpeg",
+                                        "templated": false,
+                                        "height": 730,
+                                        "width": 1024,
+                                        "aspectRatio": "4:3",
+                                        "fallback": false
+                                    }
+                                ],
+                                "allEpisodesCount": 279,
+                                "ondemandEpisodesCount": 279,
+                                "allSeriesCount": 12,
+                                "ondemandSeriesCount": 12,
+                                "audioDescribedStatus": "NONE",
+                                "subtitledStatus": "FULL",
+                                "signedStatus": "NONE"
+                            },
+                            "secondaryTitle": "Pick from any series and watch your favourite episodes",
+                            "theme": "e4",
+                            "editorialLabel": "Watch every series",
+                            "programmeStatus": "VOD"
+                        }
+                    ],
+                    "collectionProperties": {
+                        "template": "HERO",
+                        "theme": "on-demand",
+                        "websafeTitle": "homepage-hero-10",
+                        "versionId": 140992,
+                        "isCommercial": false,
+                        "toBeSorted": true,
+                        "offset": 21
+                    },
+                    "mvt": {
+                        "userAction": [
+                            {
+                                "action": "page_interaction",
+                                "eventKeyPrefix": "click"
+                            },
+                            {
+                                "action": "video_view",
+                                "eventKeyPrefix": "video_view"
+                            },
+                            {
+                                "action": "video_completion",
+                                "eventKeyPrefix": "video_completion"
+                            }
+                        ],
+                        "eventKey": [
+                            "_homepage",
+                            "_homepage_collection",
+                            "_homepage_hero",
+                            "_homepage_collection_hero",
+                            "_homepage_collection_homepage_hero_10"
+                        ]
+                    }
+}
+]}
