@@ -1,5 +1,3 @@
-import { NextResponse } from '@vercel/edge'
-
 export const config = {
   matcher: '/:path*',
 }
@@ -12,11 +10,14 @@ export default function middleware(request) {
     const [user, pwd] = atob(authValue).split(':')
 
     if (user === 'admin' && pwd === process.env.STORYBOOK_PASSWORD) {
-      return NextResponse.next()
+      return new Response(null, {
+        status: 200,
+        headers: request.headers
+      })
     }
   }
 
-  return new NextResponse('Authentication required', {
+  return new Response('Authentication required', {
     status: 401,
     headers: {
       'WWW-Authenticate': 'Basic realm="Storybook"',
