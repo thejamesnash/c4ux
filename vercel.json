@@ -1,5 +1,5 @@
 {
-  "buildCommand": "npm run build-storybook",
+  "buildCommand": "echo 'Skip build'",
   "outputDirectory": "storybook-static",
   "framework": null
 }
